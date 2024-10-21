@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://entoposhl.github.io/entoposhl.txt.gz
+Sitemap: https://entoposhl.github.io/app/entoposhl.txt.gz
+Sitemap: https://entoposhl.github.io/assets/entoposhl.txt.gz
+Sitemap: https://entoposhl.github.io/css/entoposhl.txt.gz
+Sitemap: https://entoposhl.github.io/includes/entoposhl.txt.gz
+Sitemap: https://entoposhl.github.io/item/entoposhl.txt.gz
+Sitemap: https://entoposhl.github.io/src/entoposhl.txt.gz
